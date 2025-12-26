@@ -13,8 +13,8 @@ DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://sujalbot:sujalbot@c
 MONGO_URL = DATABASE_URL  # For auth system
 
 # Owner and Admin Configuration
-OWNER_ID = int(os.environ.get("OWNER_ID", ""))
-ADMINS = [8458169280, 8383373235]  # dono admins id list me
+OWNER_ID = int(os.environ.get("OWNER_ID", "7517872227"))
+ADMINS = [7517872227, 1339834016]  # dono admins id list me
 
 
 # Channel Configuration
@@ -60,6 +60,7 @@ Please contact the admin @ItsUGBot to get access.</blockquote>""",
 
 <blockquote>Use format: {format}</blockquote>"""
 }
+
 
 
 
